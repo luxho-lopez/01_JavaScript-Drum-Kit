@@ -45,6 +45,10 @@ body {
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
 
-/* .second-hand {
-    transform: rotate(90deg);
-} */
+.min-hand {
+    background-color: blue;
+}
+
+.second-hand {
+    background-color: red;
+}
