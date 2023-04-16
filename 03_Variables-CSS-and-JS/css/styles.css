@@ -1,0 +1,11 @@
+:root {
+    --base: rgb(255, 255, 0);
+    --espacio: 10px;
+    --blur: 10px;
+}
+
+.images {
+    padding: var(--espacio) ;
+    /* width: 500px;
+    height: 500px; */
+}
